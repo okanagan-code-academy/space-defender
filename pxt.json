@@ -15,8 +15,11 @@
         "assets.json",
         "images.g.jres",
         "images.g.ts",
-        "classes.ts",
-        "customNamespaces.ts"
+        "customNamespaces.ts",
+        "vector2.ts",
+        "explosion.ts",
+        "projectileManager.ts",
+        "player.ts"
     ],
     "testFiles": [
         "test.ts"
